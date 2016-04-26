@@ -9,4 +9,4 @@ A few prerequesites: you will need some code and libraries in order to follow al
 
 ## More Information
 
-For more information on CARMA models, read [Kelly, et al (2014)](http://arxiv.org/abs/1402.5978) or the forthcoming Barrett & Farr (in prep).  There is a similar package, [carma_pack](https://github.com/brandonckelly/carma_pack), associated with that paper, but we have found it to be sometimes buggy.
+For more information on CARMA models, read [Kelly, et al (2014)](http://arxiv.org/abs/1402.5978) or the forthcoming Barrett & Farr (in prep).  There is a similar package, [carma_pack](https://github.com/brandonckelly/carma_pack), associated with Kelly, et al (2014), but we have found it to be sometimes buggy.
